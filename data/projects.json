@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Personal Website",
+    "description": "A portfolio website built with React.",
+    "image": "/images/personal-website.png",
+    "url": "https://yourwebsite.com"
+  },
+  {
+    "id": 2,
+    "title": "E-commerce App",
+    "description": "An e-commerce platform.",
+    "image": "/images/ecommerce-app.png",
+    "url": "https://ecommerce.com"
+  }
+]
